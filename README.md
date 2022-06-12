@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marchinm
+- 👋 Hi, I’m Mike Marchini.
 - 👀 I’m interested in developing useful applications for anyone developing large-scale integrated systems.
 - 🌱 I’m currently learning how to integrate distributed ledger technology with distributed file systems in useful ways.
 - :busts_in_silhouette: I’m looking to collaborate on DLT and DFS integration.
